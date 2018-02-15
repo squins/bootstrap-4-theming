@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-4-theming",
+  "version": "1.0.0",
+  "description": "Test theming of Bootstrap 4 for one of our customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/squins/bootstrap-4-theming.git"
+  },
+  "keywords": [
+    "boostrap-4",
+    "theming",
+    "theme"
+  ],
+  "author": "Kees van Dieren",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/squins/bootstrap-4-theming/issues"
+  },
+  "homepage": "https://github.com/squins/bootstrap-4-theming#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
