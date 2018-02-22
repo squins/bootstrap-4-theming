@@ -57,7 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
-
 .idea/
 *.iml
 node_modules
+dist
